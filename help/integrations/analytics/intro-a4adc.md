@@ -1,5 +1,5 @@
 ---
-title: 소개 [!DNL Adobe Analytics for Adobe Advertising]
+title: ' [!DNL Adobe Analytics for Adobe Advertising] 소개'
 description: Adobe Advertising과 Adobe Analytics 간의 통합으로 해결할 수 있는 고객 문제를 포함하여 이 솔루션의 이점을 이해합니다.
 level: Beginner
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 소개 [!DNL Adobe Analytics for Adobe Advertising]
+# [!DNL Adobe Analytics for Adobe Advertising] 소개
 
 Adobe Advertising과 Adobe Analytics 간의 통합으로 해결할 수 있는 고객 문제를 포함하여 이 솔루션의 이점을 이해합니다.
 

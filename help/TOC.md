@@ -24,15 +24,15 @@ ht-degree: 16%
    + [일괄 편집 도구를 사용하여 배치를 편집하는 방법](/help/dsp/bulk-edit-placement-tools.md)
    + [서드파티 광고 태그를 대량 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [소개 [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising] 소개](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising 사이트 시작 보고서 만들기](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [만들기 [!DNL Analytics] 활성화 및 보고용 세그먼트](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [소개 [!DNL Analysis Workspace] Adobe Advertising 데이터 보고용](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [사용 [!DNL Marketing Channels] Adobe Advertising 보고용](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [만들기 [!DNL Analytics] Adobe Advertising 활성화 및 보고용 프로필](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [활성화 및 보고를 위한  [!DNL Analytics] 세그먼트 만들기](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [Adobe Advertising 데이터 보고를 위한  [!DNL Analysis Workspace]  소개](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Adobe Advertising 보고에  [!DNL Marketing Channels] 사용](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Adobe Advertising 활성화 및 보고를 위한  [!DNL Analytics] 프로필 만들기](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Adobe Analytics을 사용하여 사전 실행 캠페인 분석 만들기](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe Analytics을 사용하여 Adobe Advertising 대시보드 만들기](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [만들기 [!DNL Analytics] Adobe Advertising 데이터를 사용한 사용자 지정 지표](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Adobe Advertising 데이터를 사용하여  [!DNL Analytics] 사용자 지정 지표 만들기](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)

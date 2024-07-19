@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Analytics을 사용하여 사전 실행 캠페인 분석 만들기
 
-*를 사용하는 광고주[!DNL Adobe Analytics for Adobe Advertising]*
+[!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
 Adobe Analytics을 사용하여 Adobe Advertising 유료 미디어 캠페인을 시작하기 위한 기반을 설정하는 방법에 대해 알아봅니다.
 

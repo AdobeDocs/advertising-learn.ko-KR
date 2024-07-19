@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Adobe Advertising 튜토리얼
 
-다음 비디오 튜토리얼과 함께 [Adobe Advertising 설명서](https://experienceleague.adobe.com/docs/advertising-cloud.html)는 Adobe Advertising을 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있도록 해줍니다.
+이 비디오 튜토리얼과 [Adobe Advertising 설명서](https://experienceleague.adobe.com/docs/advertising-cloud.html)는 Adobe Advertising을 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있도록 도와줍니다.
 
 비디오를 사용할 수 있는 대상:
 

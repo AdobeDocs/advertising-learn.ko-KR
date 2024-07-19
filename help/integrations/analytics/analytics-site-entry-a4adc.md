@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Advertising 사이트 시작 보고서 만들기
 
-*를 사용하는 광고주[!DNL Adobe Analytics for Adobe Advertising]*
+[!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
 요일, 시간, 브라우저 및 지리적 영향을 모니터링하기 위한 Adobe Advertising 사이트 시작 보고서를 만드는 방법을 알아봅니다.
 

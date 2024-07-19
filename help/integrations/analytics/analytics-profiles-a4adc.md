@@ -1,5 +1,5 @@
 ---
-title: 만들기 [!DNL Analytics] Adobe Advertising 활성화 및 보고용 프로필
+title: Adobe Advertising 활성화 및 보고를 위한  [!DNL Analytics] 프로필 만들기
 description: Adobe Analytics을 사용하여 Adobe Advertising 리마케팅을 위한 강력한 사이트 리타기팅 풀을 만드는 방법을 알아봅니다.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 만들기 [!DNL Analytics] Adobe Advertising 활성화 및 보고용 프로필
+# Adobe Advertising 활성화 및 보고를 위한 [!DNL Analytics] 프로필 만들기
 
-*를 사용하는 광고주[!DNL Adobe Analytics for Adobe Advertising]*
+[!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
 Adobe Analytics을 사용하여 Adobe Advertising 리마케팅을 위한 강력한 사이트 리타기팅 풀을 만드는 방법을 알아봅니다.
 

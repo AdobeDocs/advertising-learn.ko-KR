@@ -1,5 +1,5 @@
 ---
-title: 만들기 [!DNL Analytics] Adobe Advertising 데이터를 사용한 사용자 지정 지표
+title: Adobe Advertising 데이터를 사용하여  [!DNL Analytics] 사용자 지정 지표 만들기
 description: Adobe Analytics 내에서 Adobe Advertising 데이터를 사용할 때 만드는 유용한 사용자 지정 지표에 대해 알아봅니다.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 만들기 [!DNL Analytics] Adobe Advertising 데이터를 사용한 사용자 지정 지표
+# Adobe Advertising 데이터를 사용하여 [!DNL Analytics] 사용자 지정 지표 만들기
 
-*를 사용하는 광고주[!DNL Adobe Analytics for Adobe Advertising]*
+[!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
 Adobe Analytics 내에서 Adobe Advertising 데이터를 사용할 때 만드는 유용한 사용자 지정 지표에 대해 알아봅니다.
 

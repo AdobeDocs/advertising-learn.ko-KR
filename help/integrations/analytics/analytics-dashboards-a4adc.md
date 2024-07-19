@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Analytics을 사용하여 Adobe Advertising 대시보드 만들기
 
-*를 사용하는 광고주[!DNL Adobe Analytics for Adobe Advertising]*
+[!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
 라이브 캠페인 모니터링을 위한 Adobe Advertising 대시보드를 만드는 기술을 알아봅니다.
 

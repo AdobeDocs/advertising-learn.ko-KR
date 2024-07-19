@@ -1,6 +1,6 @@
 ---
-title: 만들기 [!DNL Analytics] 활성화 및 보고용 세그먼트
-description: Adobe 광고 차원을 사용하여 세그먼트를 만들어 보고 및 분석을 간소화하는 방법에 대해 알아봅니다.
+title: 활성화 및 보고를 위한  [!DNL Analytics] 세그먼트 만들기
+description: Adobe Advertising 차원을 사용하여 세그먼트를 만들어 보고 및 분석을 간소화하는 방법에 대해 알아봅니다.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 만들기 [!DNL Analytics] 활성화 및 보고용 세그먼트
+# 활성화 및 보고를 위한 [!DNL Analytics] 세그먼트 만들기
 
-*를 사용하는 광고주[!DNL Adobe Analytics for Adobe Advertising]*
+[!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
 Adobe Advertising 차원을 사용하여 세그먼트를 만들어 보고 및 분석을 간소화하는 방법에 대해 알아봅니다.
 
