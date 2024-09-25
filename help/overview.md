@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: 84f4abdff7ed8a4099c98ba87a12d05e0aedc3f1
+source-git-commit: bf36b29526f550759e58e57477171e9925a2787c
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 25%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 25%
 
 * Advertising DSP
 
-* Advertising DSP 및 Advertising Search와 다른 Adobe Experience Cloud 제품 및 서비스의 통합
+* Advertising DSP 및 Advertising 검색, 소셜 및 Commerce과 다른 Adobe Experience Cloud 제품 및 서비스의 통합
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
