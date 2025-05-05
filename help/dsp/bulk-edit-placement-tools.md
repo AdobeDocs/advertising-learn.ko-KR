@@ -14,5 +14,5 @@ ht-degree: 0%
 
 DSP에서 한 번에 여러 배치에 대한 설정을 편집하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3412412?captions=kor)
 

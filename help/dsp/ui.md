@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP 광고 계정의 구성 방법, 캠페인 관리 보기를 사용하는 방법 및 대상자 관리, 인벤토리, 보고, 설정 및 리소스 기능에 대한 설명을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412418?captions=kor)

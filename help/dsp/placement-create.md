@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP 캠페인에 대한 표준 디스플레이 배치를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/345002?captions=kor)

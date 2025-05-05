@@ -14,4 +14,4 @@ ht-degree: 0%
 
 한 번에 여러 타사 광고 태그를 업로드하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342177?captions=kor)

@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP 캠페인용 패키지를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/339257)
+>[!VIDEO](https://video.tv.adobe.com/v/3412430?captions=kor)
