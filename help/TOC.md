@@ -24,7 +24,7 @@ ht-degree: 16%
    + [일괄 편집 도구를 사용하여 배치를 편집하는 방법](/help/dsp/bulk-edit-placement-tools.md)
    + [서드파티 광고 태그를 대량 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [ [!DNL Analytics for Advertising] 소개](/help/integrations/analytics/intro-a4adc.md)
+   + [&#x200B; [!DNL Analytics for Advertising] 소개](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising 사이트 시작 보고서 만들기](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [활성화 및 보고를 위한  [!DNL Analytics] 세그먼트 만들기](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Adobe Advertising 데이터 보고를 위한  [!DNL Analysis Workspace]  소개](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
