@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: b262e156303c0502e2947038aac36b88d54c2480
+source-git-commit: 0673141e34adf4634c4af068375137573b7f2598
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---
@@ -25,36 +25,36 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
-### Customer Journey Analytics에서 위치 계정 설정
+### 1단계: Customer Journey Analytics에서 위치 계정 설정
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476811)
 
-### 내보낼 지표를 사용하여 Analysis Workspace에서 데이터 보기 만들기
+### 2단계: 내보낼 지표를 사용하여 Analysis Workspace에서 데이터 보기 만들기
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476823)
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising과 Customer Journey Analytics 간의 통합 개요](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising과 Customer Journey Analytics 간의 통합 개요](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
-## Customer Journey Analytics에서 Adobe Advertising 캠페인 데이터를 보기 위한 초기 설정 작업
+## Customer Journey Analytics에서 Adobe Advertising 캠페인 데이터를 보는 단계
 
 ### 개요
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476847)
 
-### Customer Journey Analytics에서 연결 설정
+### 1단계: Customer Journey Analytics에서 연결 설정
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476860)
 
-### Customer Journey Analytics에서 데이터 보기 설정
+### 2단계: Customer Journey Analytics에서 데이터 보기 설정
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476872?learn=on)
 
-### Adobe Advertising 차원에 대한 지속성 설정 및 파생 필드 구성
+### 3단계: Adobe Advertising 차원에 대한 지속성 설정 및 파생 필드 구성
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [작성된 설명서](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [작성된 설명서](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
