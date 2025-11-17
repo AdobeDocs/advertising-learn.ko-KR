@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는 데 필요한 초기 단계에 대해 알아봅니다. 여기서 나중에 최적화 목표/목표에 해당 이벤트를 포함할 수 있습니다.
 
-이 단계를 완료하고 Adobe 계정 팀에 데이터 보기를 제공하면 추가 단계를 완료하여 통합을 설정할 수 있습니다. 추가 단계에 대한 자세한 내용은 [전체 설명서](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)를 참조하세요.
+이 단계를 완료하고 Adobe 계정 팀에 데이터 보기를 제공하면 추가 단계를 완료하여 통합을 설정할 수 있습니다. 추가 단계에 대한 자세한 내용은 [전체 설명서](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview)를 참조하세요.
 
 ## 개요
 
