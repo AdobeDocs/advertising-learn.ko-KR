@@ -35,7 +35,7 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising과 Customer Journey Analytics 간의 통합 개요](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising과 Customer Journey Analytics 간의 통합 개요](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Customer Journey Analytics에서 Adobe Advertising 캠페인 데이터를 보기 위한 초기 설정 작업
 
@@ -57,4 +57,4 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 >[!MORELIKETHIS]
 >
->* [작성된 설명서](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [작성된 설명서](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview).
