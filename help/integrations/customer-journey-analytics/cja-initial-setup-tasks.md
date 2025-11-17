@@ -29,7 +29,7 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 ## 내보낼 지표를 사용하여 Analysis Workspace에서 데이터 보기 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476763?captions=kor&learn=on)
 
 >[!MORELIKETHIS]
 >
