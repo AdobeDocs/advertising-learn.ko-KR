@@ -5,9 +5,9 @@ breadcrumb-title: Advertising 튜토리얼
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 387ce23256fd76e8835a33ead30be6e1d75799cd
+source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 18%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 18%
    + [일괄 편집 도구를 사용하여 배치를 편집하는 방법](/help/dsp/bulk-edit-placement-tools.md)
    + [서드파티 광고 태그를 대량 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising] 소개](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising] 소개](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising 사이트 시작 보고서 만들기](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [활성화 및 보고를 위한  [!DNL Analytics] 세그먼트 만들기](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Adobe Advertising 데이터 보고를 위한  [!DNL Analysis Workspace]  소개](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
@@ -35,7 +35,8 @@ ht-degree: 18%
    + [Adobe Advertising 데이터를 사용하여  [!DNL Analytics] 사용자 지정 지표 만들기](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 + [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
-<!-- Add to DSP chapter once the videos are complete:
+<!-- 
+Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
