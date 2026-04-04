@@ -5,11 +5,11 @@ level: Beginner, Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
-hidefromtoc: true
-source-git-commit: 0673141e34adf4634c4af068375137573b7f2598
+exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
+source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 ### 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3476830?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### 1단계: Customer Journey Analytics에서 위치 계정 설정
 
@@ -35,7 +35,7 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising과 Customer Journey Analytics 간의 통합 개요](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising과 Customer Journey Analytics 간의 통합 개요](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Customer Journey Analytics에서 Adobe Advertising 캠페인 데이터를 보는 단계
 
@@ -53,8 +53,8 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 ### 3단계: Adobe Advertising 차원에 대한 지속성 설정 및 파생 필드 구성
 
->[!VIDEO](https://video.tv.adobe.com/v/3476939?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [작성된 설명서](https://experienceleague.adobe.com/ko/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [작성된 설명서](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
