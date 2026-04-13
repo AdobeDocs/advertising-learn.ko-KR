@@ -23,7 +23,7 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 ### 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476830?captions=kor)
 
 ### 1단계: Customer Journey Analytics에서 위치 계정 설정
 
@@ -53,7 +53,7 @@ Customer Journey Analytics 전환 이벤트를 Adobe Advertising으로 보내는
 
 ### 3단계: Adobe Advertising 차원에 대한 지속성 설정 및 파생 필드 구성
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476939?captions=kor&learn=on)
 
 >[!MORELIKETHIS]
 >
