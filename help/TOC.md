@@ -5,9 +5,9 @@ breadcrumb-title: Advertising 튜토리얼
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 16%
    + [Adobe Analytics을 사용하여 사전 실행 캠페인 분석 만들기](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe Analytics을 사용하여 Adobe Advertising 대시보드 만들기](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Adobe Advertising 데이터를 사용하여  [!DNL Analytics] 사용자 지정 지표 만들기](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
