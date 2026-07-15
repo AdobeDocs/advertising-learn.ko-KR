@@ -26,7 +26,7 @@ ht-degree: 14%
 
 # Adobe Advertising 자습서
 
-이 비디오 튜토리얼은 [Adobe Advertising 설명서](https://experienceleague.adobe.com/en/docs/advertising)와 함께 더 빠른 고객 인사이트를 위해 Adobe Advertising을 사용하는 방법을 설명합니다.
+이 비디오 튜토리얼은 [Adobe Advertising 설명서](https://experienceleague.adobe.com/ko/docs/advertising)와 함께 더 빠른 고객 인사이트를 위해 Adobe Advertising을 사용하는 방법을 설명합니다.
 
 비디오를 사용할 수 있는 대상:
 
