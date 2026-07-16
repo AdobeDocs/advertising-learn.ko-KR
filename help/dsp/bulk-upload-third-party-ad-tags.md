@@ -1,5 +1,5 @@
 ---
-title: DSP에 대한 서드파티 광고 태그를 대량 업로드하는 방법
+title: DSP에 대한 서드파티 광고 태그를 일괄 업로드하는 방법
 description: 한 번에 여러 타사 광고 태그를 업로드하는 방법을 알아봅니다.
 feature: DSP Ads
 exl-id: 1681440a-4b20-4819-a649-8754a2d143bc
@@ -15,14 +15,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: 26d6ac3f597af84d7d7715314772c020fb7f6c13
 workflow-type: tm+mt
 source-wordcount: 42
 ht-degree: 0%
 
 ---
 
-# 서드파티 광고 태그를 대량 업로드하는 방법
+# 서드파티 광고 태그를 일괄 업로드하는 방법
 
 한 번에 여러 타사 광고 태그를 업로드하는 방법을 알아봅니다.
 

@@ -22,15 +22,15 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 48
+source-wordcount: 53
 ht-degree: 0%
 
 ---
 
 # 계정 구조 및 사용자 인터페이스
 
-DSP 광고 계정의 구성 방법, 캠페인 관리 보기를 사용하는 방법 및 대상자 관리, 인벤토리, 보고, 설정 및 리소스 기능에 대한 설명을 알아봅니다.
+DSP 광고 계정의 구성 방식, 캠페인 관리 보기를 사용하는 방법, 대상자 관리, 인벤토리 관리, 보고, 관리 설정 및 요금, 추적 리소스 기능에 대한 정보를 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412418?captions=kor)

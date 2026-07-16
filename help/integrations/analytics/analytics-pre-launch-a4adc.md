@@ -14,9 +14,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 54
 ht-degree: 0%
 
 ---
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 [!DNL Adobe Analytics for Adobe Advertising]*을(를) 가진*&#x200B;광고주
 
-Adobe Analytics을 사용하여 Adobe Advertising 유료 미디어 캠페인을 시작하기 위한 기반을 설정하는 방법에 대해 알아봅니다.
+Adobe Analytics을 사용하여 Adobe Advertising 유료 미디어 캠페인 시작을 준비하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)

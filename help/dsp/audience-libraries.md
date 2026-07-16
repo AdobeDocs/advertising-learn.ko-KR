@@ -2,7 +2,7 @@
 title: DSP 대상 라이브러리 및 행동 타깃팅 적용
 description: 행동 타깃팅을 사용자 정의하기 위한 재사용 가능한 대상 라이브러리에 대해 알아봅니다.
 feature: DSP Audiences
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

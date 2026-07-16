@@ -1,8 +1,8 @@
 ---
-title: DSP용 배치 타깃팅 기능
+title: DSP을 위한 배치 타깃팅 기능
 description: 배치의 다양한 타겟팅 옵션에 대해 알아봅니다.
 feature: DSP Placements
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 0%

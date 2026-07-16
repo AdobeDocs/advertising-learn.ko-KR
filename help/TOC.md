@@ -5,15 +5,15 @@ breadcrumb-title: Advertising 튜토리얼
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 
-# Adobe Advertising 튜토리얼 {#tutorials}
+# Adobe Advertising 자습서 {#tutorials}
 
 + [개요](overview.md)
 + DSP {#dsp}
@@ -21,8 +21,8 @@ ht-degree: 16%
    + [계정 구조 및 사용자 인터페이스](/help/dsp/ui.md)
    + [패키지를 만드는 방법](/help/dsp/package-create.md)
    + [표준 디스플레이 배치를 만드는 방법](/help/dsp/placement-create.md)
-   + [일괄 편집 도구를 사용하여 배치를 편집하는 방법](/help/dsp/bulk-edit-placement-tools.md)
-   + [서드파티 광고 태그를 대량 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
+   + [배치 편집 도구를 사용하여 배치를 편집하는 방법](/help/dsp/bulk-edit-placement-tools.md)
+   + [서드파티 광고 태그를 일괄 업로드하는 방법](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [&#x200B; [!DNL Analytics for Advertising] 소개](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising 사이트 시작 보고서 만들기](/help/integrations/analytics/analytics-site-entry-a4adc.md)
@@ -36,9 +36,9 @@ ht-degree: 16%
 
 <!-- 
 Add to DSP chapter once the videos are complete:
-  + [How to Create a Placement](/help/dsp/placement-create.md)
-  + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
-  + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
+  + [How to create a placement](/help/dsp/placement-create.md)
+  + [Placement targeting capabilities](/help/dsp/placement-targeting.md)
+  + [Audience libraries and applying behavioral targeting](/help/dsp/audience-libraries.md)
 -->
 
 <!-- If I move the "Analytics for Advertising chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->

@@ -1,6 +1,6 @@
 ---
 title: DSP용 패키지를 만드는 방법
-description: 패키지를 만드는 방법을 알아봅니다.
+description: 보고 및 최적화를 위해 DSP 캠페인 내의 배치를 그룹화하고 관리하는 패키지를 만드는 방법을 알아봅니다.
 feature: DSP Packages
 exl-id: 4d4a6c11-6422-4a81-8755-703e98ac6faf
 TQID: https://experienceleague.adobe.com/J-Xe-kMWtMMP8okpqoU4mzIancOOS0l2XHp2yPA49Hc
@@ -18,9 +18,9 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
-source-wordcount: 28
+source-wordcount: 41
 ht-degree: 0%
 
 ---

@@ -14,7 +14,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: 40
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics for Adobe Advertising] 소개
 
-Adobe Advertising과 Adobe Analytics 간의 통합으로 해결할 수 있는 고객 문제를 포함하여 이 솔루션의 이점을 이해합니다.
+Adobe Advertising과 Adobe Analytics 간의 통합으로 얻을 수 있는 이점을 이해합니다. 여기에는 해결되는 고객 문제가 포함됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33491)

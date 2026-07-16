@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising 튜토리얼
+title: Adobe Advertising 자습서
 description: Adobe Advertising용 비디오 및 튜토리얼 모음입니다.
 cloud: Experience Cloud
 product: advertising cloud
@@ -17,22 +17,22 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
-# Adobe Advertising 튜토리얼
+# Adobe Advertising 자습서
 
-이 비디오 튜토리얼과 [Adobe Advertising 설명서](https://experienceleague.adobe.com/ko/docs/advertising)는 Adobe Advertising을 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있도록 도와줍니다.
+이 비디오 튜토리얼은 [Adobe Advertising 설명서](https://experienceleague.adobe.com/ko/docs/advertising)와 함께 더 빠른 고객 인사이트를 위해 Adobe Advertising을 사용하는 방법을 설명합니다.
 
 비디오를 사용할 수 있는 대상:
 
 * Advertising DSP
 
-* Advertising DSP 및 Advertising 검색, 소셜 및 Commerce과 다른 Adobe Experience Cloud 제품 및 서비스의 통합
+* Advertising DSP 및 Advertising 검색, 소셜, Commerce과 다른 Adobe Experience Cloud 제품 및 서비스의 통합
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
