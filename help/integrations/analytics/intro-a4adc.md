@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Adobe Advertising과 Adobe Analytics 간의 통합으로 얻을 수 있는 이점을 이해합니다. 여기에는 해결되는 고객 문제가 포함됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33491)
+>[!VIDEO](https://video.tv.adobe.com/v/3506553?captions=kor)

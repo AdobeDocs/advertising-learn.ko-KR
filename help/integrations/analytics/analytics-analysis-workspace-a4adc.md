@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Adobe Advertising 데이터를 사용하여 Adobe Analytics [!DNL Analysis Workspace]에서 시각적 보고서를 만드는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33492)
+>[!VIDEO](https://video.tv.adobe.com/v/3506689?captions=kor)
