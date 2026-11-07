@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Advertising 차원을 사용하여 보고 및 분석을 개선하기 위한 세그먼트를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33916)
+>[!VIDEO](https://video.tv.adobe.com/v/3506462?captions=kor)

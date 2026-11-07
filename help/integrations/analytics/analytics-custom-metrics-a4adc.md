@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Adobe Analytics 내에서 Adobe Advertising 데이터를 사용할 때 만들 사용자 지정 지표를 식별합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33919)
+>[!VIDEO](https://video.tv.adobe.com/v/3506490?captions=kor)

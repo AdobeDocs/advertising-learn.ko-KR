@@ -34,4 +34,4 @@ ht-degree: 0%
 
 라이브 캠페인 모니터링을 위한 Adobe Advertising 대시보드를 만드는 기술을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506509?captions=kor)

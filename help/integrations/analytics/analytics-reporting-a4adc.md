@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Advertising 뷰스루 및 클릭스루 항목 데이터를 Adobe Analytics [!DNL Marketing Channels]과(와) 통합하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506647?captions=kor)

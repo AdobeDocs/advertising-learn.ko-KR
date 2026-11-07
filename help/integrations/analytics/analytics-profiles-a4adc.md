@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Analytics을 사용하여 Adobe Advertising 리마케팅을 위한 사이트 리타기팅 풀을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506671?captions=kor)
